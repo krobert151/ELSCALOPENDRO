@@ -76,11 +76,127 @@ header>div>h1{
     background-image: url("../img/imgatypoidea.jpg");
 }
 .imgcyrtaucheniidae{
-    background-image: url("../img");
+    background-image: url("../img/imcyrtaucheniidae.jpg");
 }
+.imgidiopidae{
+    background-image: url("../img/imgidiopidae.jpg");
+}
+.imgctenizidae{
+    background-image: url("../img/Ctenizidae.jpg");
+}
+.imgmigoidea{
+    background-image: url("../img/Migoidea.png");
+}
+.imghypochilidae{
+    background-image: url("../img/Hypochilidae.jpg");
+}
+.imgaustrochiloidea{
+    background-image: url("../img/Austrochiloidea.jpg");
+}
+.imgfilistatidae{
+    background-image: url("../img/Filistatidae.jpg");
+}
+.imgscytodoidea{
+    background-image: url("../img/Scytodoidea.jpg");
+}
+.imgleptonetoidea{
+    background-image: url("../img/Leptonetoidea.jpg");
+}
+.imgpholcoidea{
+    background-image: url("../img/Pholcoidea.jpg");
+}
+.imgcaponioidea{
+    background-image: url("../img/Caponioidea.jpg");
+}
+.imgdysderoidea{
+    background-image: url("../img/Dysderoidea.jpg");
+}
+.imgeresoidea{
+    background-image: url("../img/Eresoidea.jpg");
+}
+.imgarchaeoidea{
+    background-image: url("../img/Archaeoidea.png");
+}
+.imgpalpimanoidea{
+    background-image: url("../img/Palpimanoidea.jpg");
+}
+.imgmimetoidea{
+    background-image: url("../img/Mimetoidea.jpg");
+}
+.imguloboroidea{
+    background-image: url("../img/Uloboridae.png");
+}
+.imgaraneoidea{
+    background-image: url("../img/Araneoidea.jpg");
+}
+.imglycosoidea{
+    background-image: url("../img/Lycosoidea.jpg");
+}
+.imgagelenoidea{
+    background-image: url("../img/Agelenoidea.jpg");
+}
+.imgdictynoidea{
+    background-image: url("../img/Dictynoidea.png");
+}
+.imgsparassidae{
+    background-image: url("../img/Sparassidae.png");
+}
+.imgselenopidae{
+    background-image: url("../img/Selenopidae.jpg");
+}
+.imgzodariidae{
+    background-image: url("../img/Zodariidae.jpg");
+}
+.imgtengellidae{
+    background-image: url("../img/Tengellidae.jpg");
+}
+.imgtitanoecoidea{
+    background-image: url("../img/Titanoecoidea.jpg");
+}
+.imggnaphosoidea{
+    background-image: url("../img/Gnaphosoidea.jpg");
+}
+.imgthomisoidea{
+    background-image: url("../img/Thomisoidea.png");
+}
+.imgsalticidae{
+    background-image: url("../img/salticiade.jpg");
+}
+.imgcorinnoidea{
+    background-image: url("../img/Corinnoidea.jpg");
+}
+
+.imgcryptopidae{
+    background-image:url("../img/cryptopidae.jpg") ;
+}
+.imgplutoniumidae{
+    background-image:url("../img/Plutoniumidae.jpg") ;
+}
+.imgscolopendridae{
+    background-image:url("../img/Scolopendridae.jpg") ;
+}
+.imgscolopendrinae{
+    background-image:url("../img/Scolopendrinae.jpg") ;
+}
+.imgotostigminae{
+    background-image:url("../img/Otostigminae.png") ;
+}
+.imgscolopocryptopinae{
+    background-image: url("../img/Scolopocryptopinae.jpg");
+}
+.imgscolopocryptopidae{
+    background-image:url("../img/Scolopocryptopidae.jpg") ;
+}
+.imgnewportiinae{
+    background-image:url("../img/Newportiinae.jpg") ;
+}
+
 .center{
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
+}
+.justify{
+    text-align: justify;
 }
