@@ -1,0 +1,46 @@
+.navbar-brand{
+    background-image: url("../img/icon.png");
+    background-size: cover;
+    background-position: 100%;
+    width: 40px;
+    height: 40px;
+}
+.nav-link{
+    color: white;
+}
+.activo{
+    color: rgb(244, 150, 0);
+}
+header>div>h1{
+    font-size: 300%;
+}
+.card{
+    background-color: rgb(44, 33, 19);
+}
+.btn-primary{
+    border-color: black;
+}
+.card-body>.btn{
+    background-color: black;
+}
+.jumbotron{
+    background-image: url("../img/banner.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.jumbotronaraña{
+    background-image: url("../img/arañabanner.png");
+    
+}
+.dropdown-menu{
+    background-color: rgb(56, 55, 55);
+    color: whitesmoke  ;
+}
+.dropdown-item{
+    color: white;
+}
+.dropdown-item:hover{
+    color: rgb(244, 150, 0);
+    background-color: rgba(0, 0, 0, 0.259);
+}
