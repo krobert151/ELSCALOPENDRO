@@ -44,3 +44,43 @@ header>div>h1{
     color: rgb(244, 150, 0);
     background-color: rgba(0, 0, 0, 0.259);
 }
+.imgbichos{
+    width: 100%;
+    height: 300px;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.imgsalticiade{
+    background-image: url("../img/salticiade.jpg");
+}
+.imgmecicobothrioidea{
+    background-image: url("../img/mecicobothrioidea.jpg");
+}
+.imghexathelidae{
+    background-image: url("../img/hexathelidae.jpg");
+}
+.imgdipluridae{
+    background-image: url("../img/imgdipluridae.png");
+}
+.imgnemesiidae{
+    background-image: url("../img/imgnemesiidae.jpg");
+}
+.imgtheraphosoidea{
+    background-image: url("../img/imgtheraphosoidea.jpg");
+}
+.imgbarychelidae{
+    background-image: url("../img/imgbarychelidae.png");
+}
+.imgatypoidea{
+    background-image: url("../img/imgatypoidea.jpg");
+}
+.imgcyrtaucheniidae{
+    background-image: url("../img");
+}
+.center{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
