@@ -44,9 +44,12 @@ header>div>h1{
     color: rgb(244, 150, 0);
     background-color: rgba(0, 0, 0, 0.259);
 }
+.divimagen{
+    height: 400px;
+}
 .imgbichos{
     width: 100%;
-    height: 300px;
+    height: 100%;
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -171,6 +174,9 @@ header>div>h1{
 }
 .imgplutoniumidae{
     background-image:url("../img/Plutoniumidae.jpg") ;
+}
+.imgmimopidae{
+    background-image: url("../img/Mimopidae.png");
 }
 .imgscolopendridae{
     background-image:url("../img/Scolopendridae.jpg") ;
