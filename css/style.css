@@ -24,14 +24,19 @@ header>div>h1{
     background-color: black;
 }
 .jumbotron{
-    background-image: url("../img/banner.png");
+    background-image: url("../img/bannerhome.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
 .jumbotronaraña{
     background-image: url("../img/arañabanner.png");
-    
+}
+.jumbotronscolopendras{
+    background-image: url("../img/banner.png");
+}
+.jumbotronscorpion{
+    background-image: url("../img/bannerscorpion.png");
 }
 .dropdown-menu{
     background-color: rgb(56, 55, 55);
@@ -196,7 +201,27 @@ header>div>h1{
 .imgnewportiinae{
     background-image:url("../img/Newportiinae.jpg") ;
 }
-
+.imgchaeriloidea{
+    background-image: url("../img/Chaeriloidea.png");
+}
+.imgpseudochactoidea{
+    background-image: url("../img/Pseudochactoidea.png");
+}
+.imgbuthoidea{
+    background-image: url("../img/Buthoidea.png");
+}
+.imgiuroidea{
+    background-image: url("../img/Iuroidea.jpg");
+}
+.imgbothriuroidea{
+    background-image: url("../img/Bothriuroidea.jpg");
+}
+.imgchactoidea{
+    background-image: url("../img/Chactoidea.JPG");
+}
+.imgscorpionoidea{
+    background-image: url("../img/Scorpionidae.JPG");
+}
 .center{
     display: flex;
     flex-direction: column;
